@@ -3,7 +3,7 @@
 
 = Introduction =
 
-In several ways pyFileMaker is a sequell to FX.php, the binding between FX.php and FileMaker since Filemaker 5 through 9, written by Chris Hansen, Chris Adams and Gjermund Gusland Thorsen aka ggt667( Unicode and other conveniences ) The invention of FX.php was mainly to bring FileMaker to one of the most common web platforms; php, but also a to show open source as a competitive alternative to the proprietary layers( or speed bumps if you will ) named Lasso and Tango...
+In several ways pyFileMaker is a sequell to FX.php, the binding between php and FileMaker since Filemaker 5 through 9, written by Chris Hansen, Chris Adams and Gjermund Gusland Thorsen aka ggt667( Unicode and other conveniences ) The invention of FX.php was mainly to bring FileMaker to one of the most common web platforms; php, but also a to show open source as a competitive alternative to the proprietary layers( or speed bumps if you will ) named Lasso and Tango...
 
 In spirit more than technical descendence pyFileMaker is taking this step further, by giving you the chance to bring your FileMaker data to any python scriptable environment there is; anywhere, our primary use so far has been mail robots, and parsers( PDFs, Excel sheets, various XML formats ), but this will also allow you to make custom iPhone apps in a python environment without having to relay on web interface; in the same fashion as stocks or weather. 
 
