@@ -37,7 +37,7 @@ Open Source approach to interchanging Filemaker data with the web
 
 = FileMaker and php =
 
-FileMaker’s own crippled version of FX.php
+FileMaker’s own crippled version of FX.php, but with preformatted templates for rapid web development.
 
 
 = pyFileMaker =
