@@ -4,9 +4,9 @@
 
 In several ways pyFileMaker is a sequell to FX.php, the binding between FX.php and FileMaker since Filemaker 5 through 9, written by Chris Hansen, Chris Adams and Gjermund Gusland Thorsen aka ggt667( Unicode and other conveniences ) The invention of FX.php was mainly to bring FileMaker to one of the most common web platforms; php but also a fight against the proprietary layer( or speed bump if you will ) named Lasso or Tango for that matter.
 
-= The option in php has been =
 
-Add your content here.  Format your content with:
+The options for php has been
+
   * Text in *bold* or _italic_
   * Headings, paragraphs, and lists
   * Automatic links to other wiki pages
