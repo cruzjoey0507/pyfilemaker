@@ -11,3 +11,24 @@ Add your content here.  Format your content with:
   * Text in *bold* or _italic_
   * Headings, paragraphs, and lists
   * Automatic links to other wiki pages
+
+
+= Details =
+
+There are several ways to interchange data with FileMaker’s XML RPC, here are the php ones:
+  * FX.php
+  * FileMaker and php
+  * FileMaker API for PHP
+
+
+= FX.php =
+
+Open Source approach to interchanging Filemaker data with the web
+
+
+= FileMaker API for PHP =
+
+FileMaker’s own php approach to interchanging FileMaker data with the web, using objects instead of arrays,
+but with preformatted templates for rapid web development.
+
+Warning: attempt done to cripple the code.
