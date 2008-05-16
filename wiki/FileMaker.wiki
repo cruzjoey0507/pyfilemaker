@@ -29,7 +29,6 @@ Main change AFAIK is that it comes with alot of documentation, in the form of sa
 
 FileMaker’s own php approach to interchanging FileMaker data with the web, using objects instead of arrays,
 but with preformatted templates for rapid web development.
-
 http://www.filemaker.com/support/technologies/php.html
 
-Warning: attempt done to cripple the code, and is not representative to the way the php developer community is behaving in general.
+Warning: In FileMaker API for PHP attempt has been done to cripple the code, and is not representative to the way the php developer community is behaving in general.
