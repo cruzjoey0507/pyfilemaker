@@ -1,0 +1,13 @@
+#Proprietary database application with fully accessible XML RPC.
+
+= FileMaker XML RPC =
+
+FileMaker’s XML RPC is fully accessible to scriptable middleware, and has been for quiet a while there are several ways to approach it through XML/XSLT, FX.php, FileMaker and PHP, and now pyFileMaker
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
