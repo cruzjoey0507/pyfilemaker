@@ -3,11 +3,11 @@
 
 = Introduction =
 
-In several ways pyFileMaker is a sequell to FX.php, the binding between FX.php and FileMaker since Filemaker 5 through 9, written by Chris Hansen, Chris Adams and Gjermund Gusland Thorsen aka ggt667( Unicode and other conveniences ) The invention of FX.php was mainly to bring FileMaker to one of the most common web platforms; php, but also a to shwo open source as a competitive alternative to the proprietary layers( or speed bumps if you will ) named Lasso and Tango...
+In several ways pyFileMaker is a sequell to FX.php, the binding between FX.php and FileMaker since Filemaker 5 through 9, written by Chris Hansen, Chris Adams and Gjermund Gusland Thorsen aka ggt667( Unicode and other conveniences ) The invention of FX.php was mainly to bring FileMaker to one of the most common web platforms; php, but also a to show open source as a competitive alternative to the proprietary layers( or speed bumps if you will ) named Lasso and Tango...
 
-In spirit more than technical descendence pyFileMaker is taking this step further, by giving you the chance to bring your FileMaker data to any python scriptable environment there is; anywhere, our primary use so far has been mail robots, and parsers( PDFs, Excel sheets, various XML formats ), but this will also allow you to make custom iPhone apps in a python environment without having to relay on web interface; in the same fashion as stocks or weather.
+In spirit more than technical descendence pyFileMaker is taking this step further, by giving you the chance to bring your FileMaker data to any python scriptable environment there is; anywhere, our primary use so far has been mail robots, and parsers( PDFs, Excel sheets, various XML formats ), but this will also allow you to make custom iPhone apps in a python environment without having to relay on web interface; in the same fashion as stocks or weather. 
 
-
+The current implementation of pyFileMaker has mainly been written by Petr Pridal aka klokan, with testing performed with colleague Gjermund Gusland Thorsen. What we are releasing in this package is the "least squares," that we believe others will benefit from. Again high impact, and freedom of speech is encouraged; even though some people might want us to keep this to ourselves, we thoroughly believe in sharing, for new knowledge to prosper on top of the one currently known by the human race.
 
 
 = Details =
@@ -17,4 +17,10 @@ There are several ways to interchange data with FileMaker’s XML RPC
   * Lasso( Proprietary )
   * FX.php
   * FileMaker and php
-  * pyFilemaker
+  * pyFileMaker
+
+= XSLT =
+= Lasso =
+= FX.php =
+= FileMaker and php =
+= pyFileMaker =
