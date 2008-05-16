@@ -19,11 +19,27 @@ There are several ways to interchange data with FileMaker’s XML RPC
   * FileMaker and php
   * pyFileMaker
 
+
 = XSLT =
 
+w3.org standard to interchanging Filemaker data with the web
 
 
 = Lasso =
+
+Proprietary approach to interchanging Filemaker data with the web
+
+
 = FX.php =
+
+Open Source approach to interchanging Filemaker data with the web
+
+
 = FileMaker and php =
+
+FileMaker’s own crippled version of FX.php
+
+
 = pyFileMaker =
+
+Open Source approach to interchanging Filemaker data with anything
