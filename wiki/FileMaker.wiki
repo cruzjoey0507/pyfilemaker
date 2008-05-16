@@ -22,7 +22,7 @@ http://iviking.org/FX.php/
 = FileMaker and php =
 
 Open Source approach to interchanging Filemaker data with the web, branch of FX.php?
-Main change AFAIK is that it comes with alot of documentation, in the form of sample queries in a PDF file, but it’s alot more than FX.php’s 7 pages or whatver, but is it needed?
+Main change AFAIK is that it comes with alot of documentation, in the form of sample queries in a PDF file, but it’s alot more than FX.php’s 7 pages or whatver, but is it needed? German or Austrian approach? I have not seen any updates to this one last 2 years.
 
 
 = FileMaker API for PHP =
