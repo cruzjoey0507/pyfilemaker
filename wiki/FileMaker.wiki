@@ -16,6 +16,12 @@ There are several ways to interchange data with FileMaker’s XML RPC, here are 
 = FX.php =
 
 Open Source approach to interchanging Filemaker data with the web
+Good documentation live example
+
+= FileMaker and php =
+
+Open Source approach to interchanging Filemaker data with the web, branch of FX.php?
+Main change AFAIK is that it comes with alot of documentation, in the form of sample queries in a PDF file, but it’s alot more than FX.php’s 7 pages or whatver, but is it needed?
 
 
 = FileMaker API for PHP =
