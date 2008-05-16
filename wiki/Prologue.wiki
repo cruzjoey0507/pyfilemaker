@@ -1,4 +1,4 @@
-#labels FX.php
+#labels FileMaker,php,options
 #The supercharging of FileMaker’s XML RPC continues...
 
 = Introduction =
@@ -35,7 +35,7 @@ Proprietary approach to interchanging Filemaker data with the web
 Open Source approach to interchanging Filemaker data with the web
 
 
-= FileMaker and php =
+= FileMaker API for PHP =
 
 FileMaker’s own php approach to interchanging FileMaker data with the web, using objects instead of arrays,
 but with preformatted templates for rapid web development.
