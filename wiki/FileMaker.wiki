@@ -6,7 +6,3 @@ For more information have a look at:
 
   * [http://www.filemaker.com/ FIleMaker Product Websites]
   * [http://en.wikipedia.org/wiki/FileMaker FileMaker at WikiPedia]
-
-== FileMaker Version you need to run PyFileMaker ==
-
-todo
