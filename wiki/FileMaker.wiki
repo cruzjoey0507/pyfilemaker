@@ -2,7 +2,7 @@
 yet competitive with the open source initiatives; glom and kexi
 
 What FileMaker has in addition to these is its symbiosis of Layouts and relationships,
-that will you powers close to those of OLAP CUBEs.
+that will give you powers close to those of OLAP CUBEs.
 
 = FileMaker, the legend the myth the database =
 
