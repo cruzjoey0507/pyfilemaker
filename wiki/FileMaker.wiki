@@ -1,4 +1,8 @@
-#Proprietary database application with fully accessible XML RPC, not competing, however competitive with the open source initiatives; glom and kexi
+#Proprietary database application with fully accessible XML RPC, not competing,
+yet competitive with the open source initiatives; glom and kexi
+
+What FileMaker has in addition to these is its symbiosis of Layouts and relationships,
+that will you the power of CUBEs 
 
 = FileMaker, the legend the myth the database =
 
