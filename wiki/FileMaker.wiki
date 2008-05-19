@@ -1,4 +1,4 @@
-#Proprietary database application with fully accessible XML RPC.
+#Proprietary database application with fully accessible XML RPC, not competing, however competitive with the open source initiatives; glom and kexi
 
 = FileMaker, the legend the myth the database =
 
