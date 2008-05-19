@@ -1,43 +1,12 @@
-#Proprietary database application with fully accessible XML RPC, not competing,
-yet competitive with the open source initiatives; glom and kexi
+= FileMaker =
 
-What FileMaker has in addition to these is its symbiosis of Layouts and relationships,
-that will give you powers close to those of OLAP CUBEs.
+FileMaker is a cross-platform database application from FileMaker Inc. (a subsidiary of Apple Inc.), known for its combination of power and ease of use. It is also noted for the integration of the database engine with its GUI-based interface, which allows users to modify the database by dragging new elements into the layouts/screens/forms that provide the user interface. This results in a "quasi-object" development environment of a kind that is still largely unique in the "industrial strength" database world.
 
-= FileMaker, the legend the myth the database =
+For more information have a look at:
 
-http://en.wikipedia.org/wiki/FileMaker
+  * [http://www.filemaker.com/ FIleMaker Product Websites]
+  * [http://en.wikipedia.org/wiki/FileMaker FileMaker at WikiPedia]
 
+== FileMaker Version you need to run PyFileMaker ==
 
-= FileMaker XML RPC =
-
-FileMaker’s XML RPC is fully accessible to scriptable middleware, and has been for quiet a while there are several ways to approach it through XML/XSLT, FX.php, FileMaker and PHP, and now pyFileMaker
-
-
-= Details =
-
-There are several ways to interchange data with FileMaker’s XML RPC, here are the php ones:
-  * FX.php
-  * FileMaker and php
-  * FileMaker API for PHP
-
-
-= FX.php (Filemaker Xml parser class for php )=
-
-Open Source approach to interchanging Filemaker data with the web
-Good documentation, live hands on example
-http://iviking.org/FX.php/
-
-= FileMaker and php =
-
-Open Source approach to interchanging Filemaker data with the web, derived from FX.php?
-Main change AFAIK is that it comes with alot of documentation, in the form of sample queries in a PDF file, but it’s alot more than FX.php’s 7 pages or whatver, but is it needed? German or Austrian approach? I have not seen any updates to this one last 2 years.
-
-
-= FileMaker API for PHP =
-
-FileMaker’s own php approach to interchanging FileMaker data with the web, using objects instead of arrays,
-but with preformatted templates for rapid web development.
-http://www.filemaker.com/support/technologies/php.html
-
-Warning: In FileMaker API for PHP attempt has been done to cripple the code, and is not representative to the way the php developer community is behaving in general.
+todo
